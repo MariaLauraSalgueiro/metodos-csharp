@@ -1,7 +1,7 @@
 /*
-Código pronto, utilize para tirar dúvidas
+ATIVIDADE 03
 */
-
+/*
 static void ExibirMenuConversao()
 {
     Console.Clear();
@@ -64,3 +64,4 @@ static void ExecutarConversor()
 }
 
 ExecutarConversor();
+*/
